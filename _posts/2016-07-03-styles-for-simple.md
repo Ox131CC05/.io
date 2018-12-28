@@ -109,3 +109,7 @@ function foo(){
 }
 
 ```
+
+### Latex
+
+$$E=mc^2$$
